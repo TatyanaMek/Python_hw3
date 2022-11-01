@@ -4,7 +4,6 @@
 
 from random import randint
 
-
 number = int(input('Необходимо ввести величину списка '))
 list = []
 list2 = []
